@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sivaprasana </h1>
-<h3 align="center">MCA pursuing Student | Aspiring Software Developer & Data Scientist | Python Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Sivaprasana B</h1>
+<h3 align="center">MCA Student | Aspiring Software Developer & Data Scientist | Python Enthusiast</h3>
 
 <p align="center">
   Turning data into insights and ideas into working code — currently seeking my first full-time role in Software Development / Data Science.
@@ -15,7 +15,7 @@
 
 ### 👨‍💻 About Me
 
-I'm an MCA pursuing student at Anna University (Distance Education) and a BCA graduate from Alpha Arts and Science College, Chennai, with a strong foundation in Python programming, data analysis, and machine learning. During my internship as a Data Science Intern, I worked hands-on with real datasets, building models and extracting insights using tools like Pandas, NumPy, and Scikit-learn. I enjoy solving problems, learning new technologies, and building projects that connect theory with practical, real-world impact. I'm now looking to bring that curiosity and work ethic to a full-time role in Software Development, Python programming, or Data Science.
+I'm an MCA student at Anna University (Distance Education) and a BCA graduate from Alpha Arts and Science College, Chennai, with a strong foundation in Python programming, data analysis, and machine learning. During my internship as a Data Science Intern, I worked hands-on with real datasets, building models and extracting insights using tools like Pandas, NumPy, and Scikit-learn. I enjoy solving problems, learning new technologies, and building projects that connect theory with practical, real-world impact. I'm now looking to bring that curiosity and work ethic to a full-time role in Software Development, Python programming, or Data Science.
 
 ---
 
@@ -80,11 +80,32 @@ A machine learning based project to analyze historical stock data and forecast m
 
 ---
 
+### 📜 Certifications
+
+- **Cambridge English Entry Level Certificate (Entry Business)** — Demonstrated business communication skills
+- **Up Skill from Cambridge** — Enhanced skills in relevant technologies
+- **Oracle Cloud Infrastructure Architecture (Web-based Training Program)** — Gained knowledge of cloud infrastructure architecture
+- **C-DAC AI** — Enhanced knowledge in Artificial Intelligence concepts
+- **MongoDB & Node.js Developer Path (SmartBridge)** — Developed skills in MongoDB and Node.js
+- **TCS ION Career Edge – Young Professional** — Developed professional workplace skills
+
+---
+
+### 🏆 Achievements
+
+**Karate**
+- 🥇 Tamil Nadu State Level Karate Championship — 1st Prize
+- 🥇 4th National Level Open Karate Championship — 1st Prize
+
+> These achievements reflect discipline, focus, and a competitive drive — qualities I bring into my professional work as well.
+
+---
+
 ### 🎓 Education
 
 | Degree | Institution | Status |
 |---|---|---|
-| **MCA** – Computer Applications | Anna University (Distance Education), Guindy | Pursuing (Nov 2027) |
+| **MCA** – Computer Applications | Anna University (Distance Education), Guindy | Pursuing (Nov 2026) |
 | **BCA** – Computer Applications | Alpha Arts and Science College, Porur, Chennai | Completed (Jul 2025) |
 
 ---
@@ -135,6 +156,8 @@ I'm currently **open to full-time opportunities** as a fresher in Software Devel
 - 📧 Email: [sivaprasanaofficial@gmail.com]
 - 🐙 GitHub: [sivaprasana]
 
+
 ---
 
 <p align="center"><i>Thanks for stopping by! Always happy to connect, collaborate, or chat about Python, data, and building things that work. 🚀</i></p>
+
