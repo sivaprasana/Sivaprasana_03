@@ -131,10 +131,9 @@ I'm currently **open to full-time opportunities** as a fresher in Software Devel
 
 ### 📬 Connect With Me
 
-- 💼 LinkedIn: [Add your LinkedIn link]
-- 📧 Email: [Add your email]
-- 🌐 Portfolio: [Optional — add your portfolio site if you have one]
-- 🐙 GitHub: [Add your GitHub username]
+- 💼 LinkedIn: [https://www.linkedin.com/in/sivaprasana-b-a8550b291?utm_source=share_via&utm_content=profile&utm_medium=member_android]
+- 📧 Email: [sivaprasanaofficial@gmail.com]
+- 🐙 GitHub: [sivaprasana]
 
 ---
 
