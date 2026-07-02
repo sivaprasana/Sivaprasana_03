@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sivaprasana B</h1>
+<h1 align="center">Hi 👋, I'm Sivaprasana </h1>
 <h3 align="center">MCA Student | Aspiring Software Developer & Data Scientist | Python Enthusiast</h3>
 
 <p align="center">
@@ -154,7 +154,7 @@ I'm currently **open to full-time opportunities** as a fresher in Software Devel
 
 - 💼 LinkedIn: [https://www.linkedin.com/in/sivaprasana-b-a8550b291?utm_source=share_via&utm_content=profile&utm_medium=member_android]
 - 📧 Email: [sivaprasanaofficial@gmail.com]
-- 🐙 GitHub: [sivaprasana]
+- 🐙 GitHub: [Sivaprasana_03]
 
 
 ---
